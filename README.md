@@ -1,4 +1,4 @@
-### Ola EU sou Elias 👋 Sou estudade de Gruduação de Engenharia da Computação pela UFRPE
+### Ola EU sou Elias 👋 Sou estudade de Graduação de Engenharia da Computação pela UFRPE
 
 <div>
   <a href="https://github.com/hellyaxs">
