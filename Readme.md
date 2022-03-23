@@ -1,4 +1,4 @@
-### Olá, sou Elias 👋
+## Olá, sou Elias 👋
 
 ***Sou estudade de Graduação de Engenharia da Computação pela UFRPE***
 
@@ -29,9 +29,7 @@
  </div>
  
  <div> 
-  
   <a href="https://www.linkedin.com/in/elias-vitor-576064208/"></a> 
-  
    ![Snake animation](https://github.com/hellyaxs/hellyaxs/blob/output/github-contribution-grid-snake.svg)
 </div>
 
