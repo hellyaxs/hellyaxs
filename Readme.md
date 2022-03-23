@@ -22,14 +22,15 @@
   </div></br>
 
   <div> 
-  <div align="center">
+ 
  <a href="https://instagram.com/elias.vito13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:eliasvito.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/elias-vitor-576064208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
- </div>
  
+  ![Snake animation](https://github.com/hellyaxs/hellyaxs/blob/output/github-contribution-grid-snake.svg)
 </div>
- ![Snake animation](https://github.com/hellyaxs/hellyaxs/blob/output/github-contribution-grid-snake.svg)
+<div>
+</div>
 
 <!--
 **hellyaxs/hellyaxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
