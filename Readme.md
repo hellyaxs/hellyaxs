@@ -1,6 +1,5 @@
-## Olá, sou Elias 👋
 
-***Sou estudade de Graduação de Engenharia da Computação pela UFRPE***
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&width=790&height=40&lines=Ol%C3%A1%2C+sou+Elias+%F0%9F%91%8B;Sou+estudade+de+Gradua%C3%A7%C3%A3o+de+Engenharia+da+Computa%C3%A7%C3%A3o+pela+UFRPE)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/hellyaxs">
