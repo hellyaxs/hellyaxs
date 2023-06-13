@@ -15,7 +15,7 @@
 <img align="right" width="200" height="200" style="border-radius:30px;" src="eva.gif?raw=true" />
 <p> - 👨‍💻 Engenheiro da Computação </p>
 <p> - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas </p>
-<p> - 🎯 Interesse: Java, Spring Boot, Quarkus, Microserviços, API , Angular, flutter, AWS , kafka e Docker . </p>
+<p> - 🎯 Interesse: Java, Spring Boot, Quarkus, Microserviços, API , Angular, flutter, kafka e Docker . </p>
   
 </div>
   
@@ -42,6 +42,8 @@
    <br/><br/>
     <img align="center" alt="linux" height="45"  src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="kafka" height="45"  src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" alt="git" height="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="docker" height="45"  src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
@@ -55,7 +57,10 @@
   
   ## Meus contatos :iphone:
 <div align="center">
- <a href="https://github.com/hellyaxs"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/hellyaxs">
+  <a href="https://eliasengenharia.netlify.app/"><img  src="https://img.shields.io/badge/website-%23100000.svg?&style=for-the-badge&color=4b0082&logo=netlify&logoColor=white&link=https://eliasengenharia.netlify.app/">
+    </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/hellyaxs"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/hellyaxs">
     </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href = "mailto:eliasvitor.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
