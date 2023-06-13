@@ -12,15 +12,17 @@
 
 ### Sobre mim
 <div style="display: inline_block"  >
-<img align="right" width="200" height="200" style="border-radius:30px;" src="eva.gif?raw=true" />
+<img align="right" width="225" height="225" style="border-radius:30px;" src="eva.gif?raw=true" />
 <p> - 👨‍💻 Engenheiro da Computação </p>
 <p> - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas </p>
 <p> - 🎯 Interesse: Java, Spring Boot, Quarkus, Microserviços, API , Angular, flutter, kafka e Docker . </p>
   
 </div>
+  <br/>
+  <br/>
   
 ## Minhas skills :nerd_face:  
-  </br>
+  
   <div style="display: inline_block" align="center">
   <img align="center" alt="java" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
