@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellyaxs&layout=compact&theme=dracula"/>
 </div>
   <br/>
-   <br/>
+
   
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&width=790&height=40&lines=Ol%C3%A1%2C+sou+Elias+%F0%9F%91%8B;Sou+estudade+de+Gradua%C3%A7%C3%A3o+de+Engenharia+da+Computa%C3%A7%C3%A3o+pela+UFRPE)](https://git.io/typing-svg)
 
@@ -53,7 +53,7 @@
     <img align="center" alt="jenkins" height="45"  src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="nginx" height="45"  src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
-  </div></br>
+  </div>
   
   ## Meus contatos :iphone:
 <div align="center">
