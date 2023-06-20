@@ -53,6 +53,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="jenkins" height="45"  src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <img align="center" alt="jhispter" height="45"  src="jhipster.202x256.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="nginx" height="45"  src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
   </div>
   
