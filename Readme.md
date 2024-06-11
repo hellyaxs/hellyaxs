@@ -5,14 +5,15 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellyaxs&layout=compact&theme=dracula"/>
 </div>
- 
+    
+
   
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&width=790&height=40&lines=Ol%C3%A1%2C+sou+Elias+%F0%9F%91%8B;Sou+estudade+de+Gradua%C3%A7%C3%A3o+de+Engenharia+da+Computa%C3%A7%C3%A3o+pela+UFRPE)](https://git.io/typing-svg)
 
 ### Sobre mim
 <div style="display: inline_block"  >
 <img align="right" width="225" height="225" style="border-radius:30px;" src="eva.gif?raw=true" />
-<p> - 👨‍💻 Engenheiro da Computação | 7º periodo </p>
+<p> - 👨‍💻 Engenheiro da Computação | 8º periodo </p>
 <p> - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas </p>
 <p> - 🎯 Interesse: Java, Spring Boot, Quarkus, Microserviços, API , Angular, flutter, kafka e Docker . </p>
   
@@ -75,8 +76,14 @@
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/hellyaxs/count.svg" />
  </p>
-
  
+  ##  [![wakatime](https://wakatime.com/badge/user/1d598a8e-b535-49e7-af5c-b37a60446c29.svg)](https://wakatime.com/@1d598a8e-b535-49e7-af5c-b37a60446c29) ⏲️ </br>
+<div align="center">
+  
+
+![mue tempo no wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@hellyaxs&theme=dark)
+
+</div> 
  <div>
   
   
