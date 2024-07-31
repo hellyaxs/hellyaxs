@@ -81,7 +81,7 @@
 <div align="center">
   
 
-![mue tempo no wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@hellyaxs&theme=dark)
+![mue tempo no wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@hellyaxs&theme=tokyonight)
 
 </div> 
  <div>
