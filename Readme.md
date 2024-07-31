@@ -88,5 +88,5 @@
   
   
   
-   ![Snake animation](https://github.com/hellyaxs/hellyaxs/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/hellyaxs/hellyaxs/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
 </div>
