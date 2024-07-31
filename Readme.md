@@ -1,9 +1,9 @@
 
 <div align="center">
   <a href="https://github.com/hellyaxs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hellyaxs&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hellyaxs&rank_icon=github&show_icons=true&theme=tokyonight"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellyaxs&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellyaxs&layout=compact&theme=tokyonight"/>
 </div>
     
 
