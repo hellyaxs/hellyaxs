@@ -15,7 +15,7 @@
 <img align="right" width="225" height="225" style="border-radius:30px;" src="eva.gif?raw=true" />
 <p> - 👨‍💻 Engenheiro da Computação | 8º periodo </p>
 <p> - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas </p>
-<p> - 🎯 Interesse: Java, Spring Boot, Quarkus, Microserviços, API , Angular, flutter, kafka e Docker . </p>
+<p> - 🎯 Interesse: Java, Spring Boot, Quarkus, Microserviços, API , Angular, flutter, kafka, Kubernets CI/CD e Docker . </p>
   
 </div>
   <br/>
@@ -57,6 +57,11 @@
      <img align="center" alt="jhispter" height="45"  src="jhipster.202x256.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="nginx" height="45"  src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="kubernets" height="45"  src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="quarkus" height="45"  src="https://github.com/devicons/devicon/blob/master/icons/quarkus/quarkus-original.svg">
+   
   </div>
   
   ## Meus contatos :iphone:
