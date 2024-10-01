@@ -1,9 +1,9 @@
 
 <div align="center">
   <a href="https://github.com/hellyaxs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hellyaxs&rank_icon=github&show_icons=true&theme=tokyonight"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellyaxs&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hellyaxs&rank_icon=github&show_icons=true&hide_border=true&theme=tokyonight"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellyaxs&layout=compact&hide_border=true&theme=tokyonight"/>
 </div>
     
 
@@ -86,7 +86,7 @@
 <div align="center">
   
 
-![mue tempo no wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@hellyaxs&theme=tokyonight)
+![mue tempo no wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@hellyaxs&theme=tokyonight&hide_border=true)
 
 </div> 
  <div>
