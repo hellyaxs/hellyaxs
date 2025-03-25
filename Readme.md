@@ -8,7 +8,7 @@
     
 
   
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&width=790&height=40&lines=Ol%C3%A1%2C+sou+Elias+%F0%9F%91%8B;Sou+estudade+de+Gradua%C3%A7%C3%A3o+de+Engenharia+da+Computa%C3%A7%C3%A3o+pela+UFRPE)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3800&pause=300&width=500&height=40&lines=Ol%C3%A1%2C+sou+Eias+%F0%9F%91%8B;Engenherio+da+Computa%C3%A7%C3%A3o+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Full+Stack+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Linux+lover+%F0%9F%90%A7)](https://git.io/typing-svg)
 
 ### Sobre mim
 <div style="display: inline_block"  >
