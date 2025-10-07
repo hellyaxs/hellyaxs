@@ -16,7 +16,8 @@
 <p> - 👨‍💻 Engenheiro da Computação | 9º periodo </p>
 <p> - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas </p>
 <p> - 🎯 Interesse: Java, Spring Boot, Nestjs, Microserviços, API , React, flutter, kafka, Kubernets CI/CD e Docker . </p>
-  
+
+[![wakatime](https://wakatime.com/badge/user/1d598a8e-b535-49e7-af5c-b37a60446c29.svg)](https://wakatime.com/@1d598a8e-b535-49e7-af5c-b37a60446c29)
 </div>
   <br/>
   <br/>
@@ -32,19 +33,19 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="flutter" height="45" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img align="center"alt="SQL Server"height="30"width="40"src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+ <img align="center"alt="Postgresql"height="45"width="45"src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img align="center" alt="typescript" height="45"src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img align="center" alt="angular-php" height="45" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/angularjs/angularjs-original.svg">
+   <img align="center" alt="react" height="45" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="mpn" height="45" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="nodejs" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="vscode" height="45"  src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
    <br/><br/>
     <img align="center" alt="linux" height="45"  src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="kafka" height="45"  src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg">
+  <img align="center" alt="rabbitmq" height="45"  src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" alt="git" height="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -52,15 +53,15 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="redis" height="45" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="jenkins" height="45"  src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
+    <img align="center" alt="github_actions" height="45" src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original-wordmark.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <img align="center" alt="jhispter" height="45"  src="jhipster.202x256.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="nginx" height="45"  src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
+  <img align="center" alt="nginx" height="60"  src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="kubernets" height="45"  src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg">
+  <img align="center" alt="portainer" height="45"  src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="quarkus" height="45"  src="https://github.com/devicons/devicon/blob/master/icons/quarkus/quarkus-original.svg">
+  <img align="center" alt="nestjs" height="45"  src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
    
   </div>
   
@@ -77,12 +78,14 @@
  <a href="https://www.linkedin.com/in/elias-vitordev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  </div>
  
-  ## Total de visitas no meu perfil :detective: <br>
+ <!--## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/hellyaxs/count.svg" />
- </p>
+ </p> -->
  
-  ##  [![wakatime](https://wakatime.com/badge/user/1d598a8e-b535-49e7-af5c-b37a60446c29.svg)](https://wakatime.com/@1d598a8e-b535-49e7-af5c-b37a60446c29) ⏲️ </br>
+## passando tempo em:  ⏲️
+
+</br>
 <div align="center">
   
 
