@@ -13,9 +13,9 @@
 ### Sobre mim
 <div style="display: inline_block"  >
 <img align="right" width="225" height="225" style="border-radius:30px;" src="eva.gif?raw=true" />
-<p> - 👨‍💻 Engenheiro da Computação | 8º periodo </p>
+<p> - 👨‍💻 Engenheiro da Computação | 9º periodo </p>
 <p> - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas </p>
-<p> - 🎯 Interesse: Java, Spring Boot, Quarkus, Microserviços, API , Angular, flutter, kafka, Kubernets CI/CD e Docker . </p>
+<p> - 🎯 Interesse: Java, Spring Boot, Nestjs, Microserviços, API , React, flutter, kafka, Kubernets CI/CD e Docker . </p>
   
 </div>
   <br/>
