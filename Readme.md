@@ -96,5 +96,5 @@
   
   
   
-   ![Snake animation](https://github.com/hellyaxs/hellyaxs/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
+   ![Snake animation](https://raw.githubusercontent.com/hellyaxs/hellyaxs/78399166f4f7a4f3fcafb7f022f91e8a16413a18/only-svg/github-contribution-grid-snake-dark.svg)
 </div>
