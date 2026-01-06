@@ -89,7 +89,8 @@
 <div align="center">
   
 
-![mue tempo no wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@hellyaxs&theme=tokyonight&hide_border=true)
+
+<img width="600" height="600" src="https://wakatime.com/share/@hellyaxs/1d4ddf9d-ff21-4ad8-884d-4a0c15e9466c.svg"></img>
 
 </div> 
  <div>
