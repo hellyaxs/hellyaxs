@@ -1,16 +1,19 @@
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<div align="center">
-  <a href="https://github.com/hellyaxs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hellyaxs&rank_icon=github&show_icons=true&hide_border=true&theme=tokyonight"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellyaxs&layout=compact&hide_border=true&theme=tokyonight"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=57&duration=3800&pause=1000&width=960&height=111&lines=Ol%C3%A1%2C+sou++Elias+Vitor+%F0%9F%91%8B;Engenheiro+da+Computa%C3%A7%C3%A3o++%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Linux+Lover+%F0%9F%90%A7)](https://git.io/typing-svg)
+
+
+---
+
+<!-- <div align="left"> -->
+  <!-- <a href="https://github.com/hellyaxs"> -->
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hellyaxs&rank_icon=github&show_icons=true&hide_border=true&theme=tokyonight"/> -->
+
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellyaxs&layout=compact&hide_border=true&theme=tokyonight"/> -->
+<!-- </div> -->
     
 
-  
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3800&pause=300&width=500&height=40&lines=Ol%C3%A1%2C+sou+Eias+%F0%9F%91%8B;Engenherio+da+Computa%C3%A7%C3%A3o+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Full+Stack+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Linux+lover+%F0%9F%90%A7)](https://git.io/typing-svg)
-
-### Sobre mim
+### Sobre mim 
 <div style="display: inline_block"  >
 <img align="right" width="225" height="225" style="border-radius:30px;" src="eva.gif?raw=true" />
 <p> - 👨‍💻 Engenheiro da Computação | 9º periodo </p>
