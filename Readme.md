@@ -16,9 +16,9 @@
 ### Sobre mim 
 <div style="display: inline_block"  >
 <img align="right" width="225" height="225" style="border-radius:30px;" src="eva.gif?raw=true" />
-<p> - 👨‍💻 Engenheiro da Computação | 9º periodo </p>
+<p> - 👨‍💻 Engenheiro da Computação | 10º periodo </p>
 <p> - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas </p>
-<p> - 🎯 Interesse: Java, Spring Boot, Nestjs, Microserviços, API , React, flutter, kafka, Kubernets CI/CD e Docker . </p>
+<p> - 🎯 Focado: Nestjs, Typescprit, Java, Spring Boot, Microserviços, API , React, Flutter, Rabbimq, Kubernets, CI/CD e Docker . </p>
 
 [![wakatime](https://wakatime.com/badge/user/1d598a8e-b535-49e7-af5c-b37a60446c29.svg)](https://wakatime.com/@1d598a8e-b535-49e7-af5c-b37a60446c29)
 </div>
