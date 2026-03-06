@@ -1,7 +1,6 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=57&duration=3800&pause=1000&width=960&height=111&lines=Ol%C3%A1%2C+sou++Elias+Vitor+%F0%9F%91%8B;Engenheiro+da+Computa%C3%A7%C3%A3o++%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Linux+Lover+%F0%9F%90%A7)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=57&duration=3800&pause=1000&width=900&height=111&lines=Ol%C3%A1%2C+sou++Elias+Vitor+%F0%9F%91%8B;Engenheiro+da+Computa%C3%A7%C3%A3o++%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Linux+Lover+%F0%9F%90%A7)](https://git.io/typing-svg)
 
 ---
 
@@ -11,6 +10,7 @@
 
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellyaxs&layout=compact&hide_border=true&theme=tokyonight"/> -->
 <!-- </div> -->
+
     
 
 ### Sobre mim 
@@ -72,12 +72,12 @@
 <div align="center">
   <a href="https://eliasengenharia.netlify.app/"><img  src="https://img.shields.io/badge/website-%23100000.svg?&style=for-the-badge&color=4b0082&logo=netlify&logoColor=white&link=https://eliasengenharia.netlify.app/">
     </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
  <a href="https://github.com/hellyaxs"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/hellyaxs">
     </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;
 <a href = "mailto:eliasvitor.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;
  <a href="https://www.linkedin.com/in/elias-vitordev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  </div>
  
@@ -89,16 +89,16 @@
 ## passando tempo em:  ⏲️
 
 </br>
+
+| ![hellyaxsa Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hellyaxs&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE") | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hellyaxs&hide=Html&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hellyaxs&theme=midnight_purple) |
+| :-: | :-: | :-: |
+
 <div align="center">
-  
-
-
 <img width="600" height="600" src="https://wakatime.com/share/@hellyaxs/1d4ddf9d-ff21-4ad8-884d-4a0c15e9466c.svg"></img>
 
 </div> 
- <div>
-  
-  
-  
-   ![Snake animation](https://raw.githubusercontent.com/hellyaxs/hellyaxs/78399166f4f7a4f3fcafb7f022f91e8a16413a18/only-svg/github-contribution-grid-snake-dark.svg)
-</div>
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/hellyaxs/hellyaxs/78399166f4f7a4f3fcafb7f022f91e8a16413a18/only-svg/github-contribution-grid-snake-dark.svg)
+
