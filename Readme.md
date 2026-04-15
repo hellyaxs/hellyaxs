@@ -16,9 +16,15 @@
 ### Sobre mim 
 <div style="display: inline_block"  >
 <img align="right" width="225" height="225" style="border-radius:30px;" src="eva.gif?raw=true" />
+
+<p>
+Engenheiro de software com foco em backend, atuando no desenvolvimento de soluções web escaláveis e orientadas ao negócio. Experiência com Node.js (TypeScript e JavaScript), APIs RESTful, sistemas assíncronos, integrações com serviços externos e bancos de dados SQL. Vivência em ambientes de nuvem, CI/CD e colaboração com times de produto, priorizando boas práticas, código limpo e entrega de valor.
+</p>
+
+<br/>
 <p> - 👨‍💻 Engenheiro da Computação | 10º periodo </p>
 <p> - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas </p>
-<p> - 🎯 Focado: Nestjs, Typescprit, Java, Spring Boot, Microserviços, API , React, Flutter, Rabbimq, Kubernets, CI/CD e Docker . </p>
+<p> - 🎯 Focado: Node.js, Nestjs, Typescprit, Microserviços, API, React, Flutter, Rabbimq, AWS, CI/CD e Docker. </p>
 
 [![wakatime](https://wakatime.com/badge/user/1d598a8e-b535-49e7-af5c-b37a60446c29.svg)](https://wakatime.com/@1d598a8e-b535-49e7-af5c-b37a60446c29)
 </div>
@@ -28,10 +34,10 @@
 ## Minhas skills :nerd_face:  
   
   <div style="display: inline_block" align="center">
-  <img align="center" alt="java" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="spring framework" height="45"  src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- <img align="center" alt="java" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> -->
+  <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+  <!-- <img align="center" alt="spring framework" height="45"  src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"> -->
+  <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
    <img align="center" alt="figma" height="45" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="flutter" height="45" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
