@@ -18,7 +18,7 @@
 <img align="right" width="225" height="225" style="border-radius:30px;" src="eva.gif?raw=true" />
 
 <p>
-Engenheiro de software com foco em backend, atuando no desenvolvimento de soluções web escaláveis e orientadas ao negócio. Experiência com Node.js (TypeScript e JavaScript), APIs RESTful, sistemas assíncronos, integrações com serviços externos e bancos de dados SQL. Vivência em ambientes de nuvem, CI/CD e colaboração com times de produto, priorizando boas práticas, código limpo e entrega de valor.
+Engenheiro de software atuando no desenvolvimento de soluções web escaláveis e orientadas ao negócio. Experiência com Node.js (TypeScript e JavaScript), APIs RESTful, sistemas assíncronos, integrações com serviços externos e bancos de dados SQL. Vivência em ambientes de nuvem, CI/CD e colaboração com times de produto, priorizando boas práticas, código limpo e entrega de valor.
 </p>
 
 <br/>
