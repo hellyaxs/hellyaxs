@@ -22,8 +22,8 @@ Engenheiro de software atuando no desenvolvimento de soluções web escaláveis 
 </p>
 
 <br/>
-<p> - 👨‍💻 Engenheiro da Computação | 10º periodo </p>
-<p> - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas </p>
+<p> - 👨‍💻 Engenheiro da Computação </p>
+<p> - 👨‍🎓 Análise e Desenvolvimento de Sistemas </p>
 <p> - 🎯 Focado: Node.js, Nestjs, Typescprit, Microserviços, API, React, Flutter, Rabbimq, AWS, CI/CD e Docker. </p>
 
 [![wakatime](https://wakatime.com/badge/user/1d598a8e-b535-49e7-af5c-b37a60446c29.svg)](https://wakatime.com/@1d598a8e-b535-49e7-af5c-b37a60446c29)
